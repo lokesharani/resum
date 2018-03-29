@@ -1,0 +1,43 @@
+{
+"basic":{
+  "photo":".jpg",
+  "name":"Lokesh",
+  "email":"lokeshvijay192@gmail.com",
+"mobile":"7330012345",
+"address":"ptr"
+}
+"career":{
+
+  "info":" hii lokesh....com"
+}
+}
+"career":{
+"info":"To pursue a challenging career and be a part of progressive"
+},
+
+"education":[
+  {
+  "cource":"MCA",
+  "college":"SVPCET,Puttur",
+  "data":["2017-20","85%"]
+},
+
+{
+  "cource":"B.Sc(Computers)",
+  "college":"GDC,Nagari",
+  "data":["2014-17","64%"]
+},
+{
+  "cource":"Inter(MPC)",
+  "college":"PCN Govt.Jr College,Nagari",
+  "data":["2012-14","69.3%"]
+},
+{
+  "cource":"SSC",
+  "college":"Z.P.H.S, M.Kothur",
+  "data":["2011-12","88%"]
+}
+
+]
+
+}
